@@ -11,8 +11,6 @@ AsereCoin es un token ERC-20 en la blockchain de Solana que busca conectar a la 
 - `app.js`      – Pequeña dosis de JavaScript para interactividad.
 
 ## Despliegue
-Corrijo sección de despliegue: limpio URL y menciono rama main
-
 https://Frankmusic666.github.io/AsereCoin/
 
 ¡Bienvenido a AsereCoin! 🚀
