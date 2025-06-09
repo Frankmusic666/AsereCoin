@@ -15,3 +15,4 @@ Publica esta página en GitHub Pages desde la rama `main` y queda disponible en:
 https://Frankmusic666.github.io/AsereCoin/
 
 ¡Bienvenido a AsereCoin! 🚀
+Corrijo sección de despliegue: limpio URL y menciono rama main
